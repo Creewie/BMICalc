@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
+        //twoja stara
         val Iweight = findViewById<EditText>(R.id.weight)
         val Iheight = findViewById<EditText>(R.id.height)
         val checkBMI = findViewById<Button>(R.id.checkBMI)
